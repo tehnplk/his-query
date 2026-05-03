@@ -11,4 +11,4 @@
 ## read doc if user ask
 - ask `hosxp` read @docs/hosxp.md
 - ask `hosxp pcu` read @docs/hosxp_pcu.md
-- ask `hosxp jhcis` read @docs/jhcis.md
+- ask `jhcis` read @docs/jhcis.md
